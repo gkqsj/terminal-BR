@@ -1,4 +1,4 @@
- using namespace title;
+ using namespace Tile;
  class Tile
     {
         int PosX;
