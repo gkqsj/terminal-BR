@@ -1,6 +1,0 @@
-C:\Users\LPR-INFO04\source\repos\TerminalBR\TerminalBR\bin\Debug\TerminalBR.exe.config
-C:\Users\LPR-INFO04\source\repos\TerminalBR\TerminalBR\bin\Debug\TerminalBR.exe
-C:\Users\LPR-INFO04\source\repos\TerminalBR\TerminalBR\bin\Debug\TerminalBR.pdb
-C:\Users\LPR-INFO04\source\repos\TerminalBR\TerminalBR\obj\Debug\TerminalBR.csproj.CoreCompileInputs.cache
-C:\Users\LPR-INFO04\source\repos\TerminalBR\TerminalBR\obj\Debug\TerminalBR.exe
-C:\Users\LPR-INFO04\source\repos\TerminalBR\TerminalBR\obj\Debug\TerminalBR.pdb
