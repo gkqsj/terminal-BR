@@ -14,7 +14,7 @@ namespace TerminalBR
         {
             if (ItemCod == 0)
             {
-                HPbuff = 10;
+                HPbuff = 11;
                 DMGbuff = 0;
             }
             else if (ItemCod == 1)
